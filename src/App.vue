@@ -1,8 +1,8 @@
 <template>
   <div>
     <vitty-header />
-    <vitty-hero class="mb-16" />
-    <vitty-home-products class="mb-16" title="New Products" />
+    <vitty-hero />
+    <vitty-home-products title="New Products" />
     <vitty-banner />
     <vitty-showcase />
   </div>
