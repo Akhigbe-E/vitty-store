@@ -5,6 +5,7 @@
     <vitty-home-products title="New Products" />
     <vitty-banner />
     <vitty-showcase />
+    <vitty-footer />
   </div>
 </template>
 
@@ -14,8 +15,9 @@
   import VittyHomeProducts from "./components/VittyHomeProducts.vue";
   import VittyBanner from "./components/VittyBanner.vue";
   import VittyShowcase from "./components/VittyShowcase.vue";
+  import VittyFooter from "./components/VittyFooter.vue";
   export default {
-    components: { VittyHero, VittyHeader, VittyHomeProducts, VittyBanner, VittyShowcase },
+    components: { VittyHero, VittyHeader, VittyHomeProducts, VittyBanner, VittyShowcase, VittyFooter },
   };
 </script>
 
