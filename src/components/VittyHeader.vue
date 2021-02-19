@@ -7,7 +7,7 @@
       wishlistIcon="heart"
       accountIcon="profile"
       searchPlaceholder="Search for items"
-      searchValue="Impossible"
+      searchValue=""
       wishlistItemsQty="0"
       cartItemsQty="0"
     >
