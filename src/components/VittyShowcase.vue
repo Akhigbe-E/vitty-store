@@ -43,9 +43,7 @@
           alt="Vila stripe maxi shirt dress"
           width=""
           height=""
-        >
-          D
-        </SfImage>
+        />
       </div>
     </div>
   </SfSection>
