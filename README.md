@@ -1,4 +1,6 @@
-# storefront-ui
+# vitty-store
+
+Vitty store is a storefront built with StorefrontUI and Tailwind CSS. It was created to demonstrate how to use these two technologies written here https://blog.logrocket.com/ecommerce-storefront-ui-tailwind-css/
 
 ## Project setup
 ```
